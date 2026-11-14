@@ -1,6 +1,6 @@
 # Hi, I'm João Pimentel 👋
 
-Second-year **Systems Engineering** student at **ISEP** (Porto, Portugal), looking for a **summer 2027 internship**. I like building software that solves practical problems, from clean object-oriented Java to a smart home app I use on my own property.
+Second-year **Systems Engineering** student at **ISEP** (Porto, Portugal). I like building software that solves practical problems, from clean object-oriented Java to a smart home app I use on my own property.
 
 ## Projects
 
